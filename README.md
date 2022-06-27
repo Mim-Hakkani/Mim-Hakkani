@@ -68,22 +68,28 @@ This is <b>Md Golam Hakakni Mim</b> from Bangladesh 🇧🇩. I am a full stack 
 ## :phone: CONTACT WITH ME
 
 <!-- ##### PORTFOLIO  -->
+https://hakkani-mim-profile.netlify.app/
+
+
 
 ###### 🔗 SOCIAL
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/mohimenol-munna-a54167132/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='facebook' height='25'>](https://www.facebook.com/mohimenol.munna) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/hakkani-mim-61720a227/)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='25'>](https://www.facebook.com/Hakkani32) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='facebook' height='25'>](https://www.facebook.com/Hakkani32) 
 
 
 ## :trophy: ACTIVITY 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Mohimenol-Islam-Munna&count_private=true&theme=algolia&column=8&margin-w=30)
+![trophy](https://github-profile-trophy.vercel.app/?username=MimHakkani&count_private=true&theme=algolia&column=8&margin-w=30)
 
 
 ## :bar_chart: CONTRIBUTION 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohimenol-Islam-Munna&count_private=true&theme=react-dark&background=ff0000&line=8a2be2)  
+![trophy](https://app.netlify.com/sites/hakkani-mim-profile/settings/domain)
+![GitHub Activity Graph]()  
 
 
 ## :white_flower: STATS
