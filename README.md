@@ -25,10 +25,10 @@ This is <b>Md Golam Hakakni Mim</b> from Bangladesh 🇧🇩. I am a full stack 
   ###### :radio_button: FRONTEND
   
     * HTML 
-    * CSS: SASS
+    * CSS: CSS,CSS3,SASS,SCSS
     * CSS FRAMEWORK: BOOTSTRAP,TAILWIND CSS
-    * LANGUAGE: JAVASCRIPT,TYPESCRIPT
-    * FRAMEWORK: REACT JS, VUE JS, NEXT JS
+    * LANGUAGE: C,C++,JAVASCRIPT,TYPESCRIPT
+    * FRAMEWORK: REACT JS, NEXT JS
     * COMPONENT LIBRARY: REACT-BOOTSTRAP, METARIAL UI
     * STATE MANAGEMENT LIBRARY: REDUX, REACT-REDUX, REDUX-TOOLKIT
     * GRAPHQL: APOLLO-CLIENT
@@ -42,9 +42,6 @@ This is <b>Md Golam Hakakni Mim</b> from Bangladesh 🇧🇩. I am a full stack 
     * TYPE: REST API, GRAPHQL
     
     
-  ###### :radio_button: MOBILE APPLICATION
-  
-    * REACT NATIVE
     
     
   ###### :radio_button: TOOLS
@@ -59,7 +56,7 @@ This is <b>Md Golam Hakakni Mim</b> from Bangladesh 🇧🇩. I am a full stack 
   
     * COMPANY NAME: EHSAN SOFTWARE LTD, BOGRA, BANGLADESH 🇧🇩
     * POSITION: FRONTEND DEVELOPER (REACT JS, NEXT JS)
-    * JOB START: 3RD AUGUEST 2021
+    * JOB START: 1ST JANUARY 2022
     
    [`COMPANY WEBSITE`](https://ehsansoftware.com/)
    
