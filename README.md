@@ -25,7 +25,7 @@ This is <b>Md Golam Hakakni Mim</b> from Bangladesh 🇧🇩. I am a full stack 
   ###### :radio_button: FRONTEND
   
     * HTML 
-    * CSS: SASS,BEM
+    * CSS: SASS
     * CSS FRAMEWORK: BOOTSTRAP,TAILWIND CSS
     * LANGUAGE: JAVASCRIPT,TYPESCRIPT
     * FRAMEWORK: REACT JS, VUE JS, NEXT JS
