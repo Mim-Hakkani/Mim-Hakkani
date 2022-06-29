@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/60900771/174942929-c00baf97-6031-4dab-8dfb-2483de87b1d5.png" width="250" height="200"/></p>
+<p align="center"><img src="https://img.lovepik.com/free-png/20210926/lovepik-programmer-knocking-code-work-icon-free-vector-png-image_401373103_wh1200.png" width="250" height="200"/></p>
 
 
 <p align="center">
