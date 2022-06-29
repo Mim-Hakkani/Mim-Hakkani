@@ -95,6 +95,6 @@ My Prortfolio Link : https://hakkani-mim-profile.netlify.app/
 ## :white_flower: STATS
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohimenol-Islam-Munna&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohimenol-Islam-Munna&theme=dark&background=000000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mim-Hakkani&layout=compact&show_icons=true&count_private=true&theme=dark&background=000000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mim-Hakkani&theme=dark&background=000000" width="49%"/>
 </p>
