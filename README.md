@@ -83,13 +83,13 @@ My Prortfolio Link : https://hakkani-mim-profile.netlify.app/
 
 ## :trophy: ACTIVITY 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MimHakkani&count_private=true&theme=algolia&column=8&margin-w=30)
+![trophy](https://github-profile-trophy.vercel.app/?username=Mim-Hakkani&count_private=true&theme=algolia&column=8&margin-w=30)
 
 
 ## :bar_chart: CONTRIBUTION 
 
-![trophy](https://app.netlify.com/sites/hakkani-mim-profile/settings/domain)
-![GitHub Activity Graph]()  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mim-Hakkani&count_private=true&theme=react-dark&background=ff0000&line=8a2be2)
 
 
 ## :white_flower: STATS
