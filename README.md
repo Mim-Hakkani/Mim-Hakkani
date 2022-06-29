@@ -59,6 +59,7 @@ This is <b>Md Golam Hakakni Mim</b> from Bangladesh 🇧🇩. I am a full stack 
     * JOB START: 1ST JANUARY 2022
     
    [`COMPANY WEBSITE`](https://ehsansoftware.com/)
+   [`COMPANY WEBSITE2`](https://ehsanmarketing.com/)
    
  ###### :negative_squared_cross_mark: PREVIOUS COMPANIES
  
